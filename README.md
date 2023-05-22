@@ -1,1 +1,1 @@
-# Digism_2023
+Solution for assignments solved in Digisim'23
